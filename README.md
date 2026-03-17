@@ -25,7 +25,7 @@ Simple and user-friendly interface
 Paste or type your text message in the input field
 
 Click the Detect button
-<img width="950" height="982" alt="image" src="https://github.com/user-attachments/assets/56e9cfe3-7039-412b-995d-c355c537873b" />
+<img width="450" height="482" alt="image" src="https://github.com/user-attachments/assets/56e9cfe3-7039-412b-995d-c355c537873b" />
 
 
 The tool will highlight characters that are not part of the GSM character set
